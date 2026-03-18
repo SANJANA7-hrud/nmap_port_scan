@@ -13,12 +13,12 @@ It uses **multi-threading** for fast scanning and provides real-time updates of 
 
 *  Scan any IP address or hostname
 *  Fast multi-threaded scanning (up to 500 threads)
-* Real-time progress tracking
-* Detects common services (HTTP, SSH, FTP, etc.)
+*  Real-time progress tracking
+*  Detects common services (HTTP, SSH, FTP, etc.)
 *  Displays elapsed scan time
 *  Stop scan anytime
 *  Save results to a text file
-* 🧹Clear results easily
+*  Clear results easily
 *  Simple Tkinter GUI interface
 
 ---
